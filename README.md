@@ -1,1 +1,1 @@
-save mnist dataset in "mnist.csv" file in the same folder
+save mnist dataset in "mnist.csv" file in the same folder as "mnist_conv.ipynb"
